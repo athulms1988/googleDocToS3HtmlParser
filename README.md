@@ -28,6 +28,7 @@ AWS Account
 - ```docUrl``` The publish url of the google document
 - ```S3_BUCKET``` S3 bucket name
 - ```KEY_PREFIX``` The folder name of the s3 bucket. If the files need to be placed on the root of the bucket. pass the value as ```''```
+- ```holidaysData``` Comma separated string with date in DD-MM-YYYY format. Eg ```15-08-2019,11-09-2019,02-10-2019,25-12-2019```
 
 **Permissions**
 
